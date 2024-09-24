@@ -1,0 +1,4 @@
+langchain_google_genai
+load_dotenv
+huggingface_hub
+langchain_google_genai
